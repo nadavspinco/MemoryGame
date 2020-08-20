@@ -1,0 +1,11 @@
+C:\Users\nadav\source\repos\MemoryGame\MemoryGame\bin\Debug\MemoryGame.exe.config
+C:\Users\nadav\source\repos\MemoryGame\MemoryGame\bin\Debug\MemoryGame.exe
+C:\Users\nadav\source\repos\MemoryGame\MemoryGame\bin\Debug\MemoryGame.pdb
+C:\Users\nadav\source\repos\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\nadav\source\repos\MemoryGame\MemoryGame\obj\Debug\MemoryGame.exe
+C:\Users\nadav\source\repos\MemoryGame\MemoryGame\obj\Debug\MemoryGame.pdb
+C:\Users\nadav\source\repos\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csproj.GenerateResource.cache
+C:\Users\nadav\source\repos\MemoryGame\MemoryGame\obj\Debug\MemoryGame.Properties.Resources.resources
+C:\Users\nadav\source\repos\MemoryGame\MemoryGame\obj\Debug\MemoryGameUi.GameSettingForm.resources
+C:\Users\nadav\source\repos\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csprojAssemblyReference.cache
+C:\Users\nadav\source\repos\MemoryGame\MemoryGame\obj\Debug\MemoryGameUi.MemoryGameBoardForm.resources
