@@ -16,11 +16,11 @@ namespace MemoryGameUi
         private const int k_ColMinSize =4;
         private const int k_RowMaxSize = 6;
         private const int k_ColMaxSize = 6;
-        private int m_RowSize = 4;
-        private int m_ColSize = 4;
-        private string m_FirstPlayerUserName;
-        private string m_SecondPlayerUserName;
-        private eGameMode m_GameMode = eGameMode.PcEasyMode;
+        public int RowSize { get; private set; } = 4;
+        public int ColSize { get; private set; } = 4;
+        public string FirstPlayerName { get; private set; }
+        public string SecondPlayerName { get; private set; }
+        public eGameMode GameMode { get; private set; } = eGameMode.PcEasyMode;
         public GameSettingForm()
         {
             InitializeComponent();
@@ -51,33 +51,8 @@ namespace MemoryGameUi
             }
         }
 
-        public eGameMode GameMode
-        {
-            get { return m_GameMode; }
-            private set { m_GameMode = value; }
-        }
 
-        public string SecondPlayerName
-        {
-            get { return m_SecondPlayerUserName; }
-            private set { m_SecondPlayerUserName = value; }
-        }
-        public string FirstPlayerName
-        {
-            get { return m_FirstPlayerUserName; }
-            private set { m_FirstPlayerUserName = value; }
-        }
-
-        public int ColSize
-        {
-            get { return m_ColSize; }
-            private set { m_ColSize = value; }
-        }
-        public int RowSize
-        {
-            get { return m_RowSize; }
-            private set { m_RowSize = value; }
-        }
+    
 
         private void boardSize_button_Click(object sender, EventArgs e)
         {
